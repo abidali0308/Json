@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/*",
+      "destination": "https://search1.passivemoneyforum.com/:splat"
+    }
+  ],
+  "domains": ["search1.passivemoneyforum.com"]
+}
