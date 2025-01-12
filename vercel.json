@@ -1,8 +1,8 @@
 {
 "redirects": [
 {
-"source": "/:splat*",
-"destination": "https://search1.passivemoneyforum.com/:splat"
+"source": "/",
+"destination": "https://search1.passivemoneyforum.com"
 }
 ]
 }
